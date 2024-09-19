@@ -37,6 +37,6 @@
 </picture>
 
 <div align="center">
-<a href="https://github.com/Tahul121?tab=languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahul121&theme=highcontrast&layout=compact" alt="Languages">
+<a href="https://github.com/rahultechser?tab=languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahultechser&theme=highcontrast&layout=compact" alt="Languages">
 </p>
