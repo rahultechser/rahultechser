@@ -9,29 +9,23 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Tahul121&label=Profile%20views&color=0e75b6&style=flat" alt="Tahul121" /> </p>
 
-<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
-</div>
-<div align="center">
-  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-</div>
-<div>
-  <div align="center">
-    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
+<h4 align="center">
+  
+ - 🤖 I’M CURRENTLY WORKING ON **WHATSAPP BOTS**
 
-<dl>
-    <dt align="left"><strong>Name:</strong></dt>
-    <dd align="left">Rahul Debnath</dd>
-    <dt align="left">Loves:</dt>
-    <dd align="left">Anime, Wa Bot</dd>
-    <dt align="left">Hobbies:</dt>
-    <dd align="left">Coding,
-      Editing</dd>
-</dl>
-<br>
+ - 🌱 I’M CURRENTLY LEARNING **____**
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
+ - 📌 ASK ME ABOUT **WHATSAPP BOTS**
 
-<br>
+ - 💌 HOW TO REACH ME **rsstatus004@gmail.com**
+
+ - 🗿 **I AM BENGALI 🤲🏻**
+
+## LISTENING TO
+<[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
+</a>
+</p>
+<br/>
 
 ## MY GITHUB STATUS
 
